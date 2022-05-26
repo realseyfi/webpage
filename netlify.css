@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'neutral';
+    src: url('YekanBakh-Light.eot')format('eot'), url('YekanBakh-Light.woff') format('woff'),
+        url('YekanBakh-Light.woff2') format('woff2');
+    }
+*{
+	font-family: 'neutral';
+}
